@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Contact Form",
+        "phone_field": "phone",
+        "email_field": "email"
+    },
+    {
+        "name": "Registration Form",
+        "email_field": "email",
+        "date_of_birth": "date"
+    }
+]
